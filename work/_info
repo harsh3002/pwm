@@ -1,0 +1,149 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HARSHITH/Desktop/Verilog/button debouncer
+vcomparator_pwm
+Z0 !s110 1709206789
+!i10b 1
+!s100 V71X8@]L6_fCG2>fFgJ]`2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IFmB5<0_[O_Kl6LW@j`YVm2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/HARSHITH/Desktop/Verilog/pwm
+Z4 w1709206787
+Z5 8C:/Users/HARSHITH/Desktop/Verilog/pwm/pwm.v
+Z6 FC:/Users/HARSHITH/Desktop/Verilog/pwm/pwm.v
+!i122 39
+L0 78 9
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1709206789.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/pwm/pwm.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/pwm/pwm.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vcomparator_tb
+!s110 1709174120
+!i10b 1
+!s100 5C:bfmemf`_Pn:=AWJ:G53
+R1
+I`4jCZG=ld0d>AJlBVZ^[[2
+R2
+R3
+w1709174116
+8C:/Users/HARSHITH/Desktop/Verilog/pwm/comparator.v
+FC:/Users/HARSHITH/Desktop/Verilog/pwm/comparator.v
+!i122 4
+L0 12 22
+R7
+r1
+!s85 0
+31
+!s108 1709174120.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/pwm/comparator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/pwm/comparator.v|
+!i113 1
+R10
+R11
+vcounter_pwm
+R0
+!i10b 1
+!s100 C2k4leh0mN<;8fWHL6BNC3
+R1
+IMP]cYWSz17Xg^:i_:S3`m0
+R2
+R3
+R4
+R5
+R6
+!i122 39
+L0 58 18
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 C:/Users/HARSHITH/Desktop/Verilog/pwm/pwm.v|
+R9
+!i113 1
+R10
+R11
+vcounter_tb
+!s110 1709173420
+!i10b 1
+!s100 F:8KMf>:NAMezIA;[=d?Z3
+R1
+I@LNQC;M_A^2`acJWo5BnU1
+R2
+R3
+w1709173419
+8C:/Users/HARSHITH/Desktop/Verilog/pwm/counter.v
+FC:/Users/HARSHITH/Desktop/Verilog/pwm/counter.v
+!i122 3
+L0 20 26
+R7
+r1
+!s85 0
+31
+!s108 1709173420.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/pwm/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/pwm/counter.v|
+!i113 1
+R10
+R11
+vpwm
+R0
+!i10b 1
+!s100 OPaQo^:nR2`BazSZ3LcJK1
+R1
+IAY^BgHVPMdfeo@e@]lO9A0
+R2
+R3
+R4
+R5
+R6
+!i122 39
+L0 4 22
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+vpwm_tb
+R0
+!i10b 1
+!s100 e??:>Q3:W@=CU?BzamS1N1
+R1
+I[NS;9nQ?^^li0FoeR42lF2
+R2
+R3
+R4
+R5
+R6
+!i122 39
+L0 28 29
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11

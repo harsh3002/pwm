@@ -1,0 +1,27 @@
+C:/Users/HARSHITH/Desktop/Verilog/pwm/pwm.v {1 {vlog -work work -stats=none C:/Users/HARSHITH/Desktop/Verilog/pwm/pwm.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pwm
+-- Compiling module pwm_tb
+-- Compiling module counter_pwm
+-- Compiling module comparator_pwm
+
+Top level modules:
+	pwm_tb
+
+} {} {}} C:/Users/HARSHITH/Desktop/Verilog/pwm/counter.v {1 {vlog -work work -stats=none C:/Users/HARSHITH/Desktop/Verilog/pwm/counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_pwm
+-- Compiling module counter_tb
+
+Top level modules:
+	counter_tb
+
+} {} {}} C:/Users/HARSHITH/Desktop/Verilog/pwm/comparator.v {1 {vlog -work work -stats=none C:/Users/HARSHITH/Desktop/Verilog/pwm/comparator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module comparator_pwm
+-- Compiling module comparator_tb
+
+Top level modules:
+	comparator_tb
+
+} {} {}}
